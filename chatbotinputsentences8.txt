@@ -1,0 +1,399 @@
+Input sentence 1 : its from ba and finds the cheapest ba flight on a route britishairwayscomtravelengb
+Actual correction 1 : <sos> it's from ba and finds the cheapest ba flight on a route britishairwayscomtravel…en_gb <eos>
+Predicted correction 1 : it's from ba and finds the cheapest ba flight on a route britishairwayscomtravel…en gb
+
+Input sentence 2 : more ash disruptions starting tomorrow httpnewsbbccoukhiukstm
+Actual correction 2 : <sos> more ash disruptions starting tomorrow httpnewsbbccoukhiukstm <eos>
+Predicted correction 2 : more ash disruptions starting tomorrow httpnewsbbccoukhiukstm
+
+Input sentence 3 : which is best seats and comfort a big plusany help would be greatful
+Actual correction 3 : <sos> which is best seats and comfort a big plus[any help would be greatful] <eos>
+Predicted correction 3 : which is best seats and comfort a big plus any help would be greatful
+
+Input sentence 4 : hello i can not find transavia holland in the list airlines
+Actual correction 4 : <sos> [hello ]i can not find transavia holland in the list airlines <eos>
+Predicted correction 4 : hello i can not find transavia holland in the list airlines
+
+Input sentence 5 : does anyone know which central american city is likely to have the best cheapest flight from la
+Actual correction 5 : <sos> does anyone know which central american city is likely to have the best cheapest flight from la <eos>
+Predicted correction 5 : does anyone know which central american city is likely to have the best cheapest flight from la
+
+Input sentence 6 : how much time it takes to collect bags from mumbai airport incase of turkish airlines
+Actual correction 6 : <sos> how much time it takes to collect bags from mumbai airport incase of turkish airlines <eos>
+Predicted correction 6 : how much time it takes to collect bags from mumbai airport incase of turkish airlines
+
+Input sentence 7 : interesting story i stumbled across today whilst reading the papers usatodaycomflights regards dilbertphilbert
+Actual correction 7 : <sos> interesting story i stumbled across today whilst reading the papers …usatodaycomflights… regards dilbertphilbert <eos>
+Predicted correction 7 : interesting story i stumbled across today whilst reading the papers …usatodaycomflights… regards dilbertphilbert
+
+Input sentence 8 : hello i can not find transavia holland in the list airlines
+Actual correction 8 : <sos> [hello ]i can not find transavia holland in the list airlines <eos>
+Predicted correction 8 : hello i can not find transavia holland in the list airlines
+
+Input sentence 9 : does anyone know if this company is still operating it has a website but no flight info
+Actual correction 9 : <sos> does anyone know if this company is still operating [it has a website but no flight info] <eos>
+Predicted correction 9 : does anyone know if this company is still operating it has a website but no flight info
+
+Input sentence 10 : leaves melbourne just after midnight for singapore late dinner or an early breakfast which is served thanks
+Actual correction 10 : <sos> leaves melbourne just after midnight for singapore late dinner or an early breakfast which is served [thanks] <eos>
+Predicted correction 10 : leaves melbourne just after midnight for singapore late dinner or an early breakfast which is served thanks
+
+Input sentence 11 : hiflying to cancun from gatwick in januarywondering of you are allowed to use your netbook on the flight thanks
+Actual correction 11 : <sos> [hi]flying to cancun from gatwick in januarywondering of you are allowed to use your netbook on the flight [thanks] <eos>
+Predicted correction 11 : does anyone know which central american city is likely to use your netbook on the flight thanks
+
+Input sentence 12 : will be in kolcutta on december looking for reasonable cheapclean place to stay all responses appreciated
+Actual correction 12 : <sos> will be in kolcutta on december  looking for reasonable cheapclean place to stay [all responses appreciated] <eos>
+Predicted correction 12 : will be in kolcutta on december looking for reasonable cheapclean place to stay all responses appreciated
+
+Input sentence 13 : has anyone flown this route recently if so how did it compare to other airlines
+Actual correction 13 : <sos> has anyone flown this route recently if so how did it compare to other airlines <eos>
+Predicted correction 13 : has anyone flown this route recently if so how did it compare to other airlines
+
+Input sentence 14 : has anyone used nok on norweign air to get a better price on plane ticket
+Actual correction 14 : <sos> has anyone used nok on norweign air to get a better price on plane ticket <eos>
+Predicted correction 14 : has anyone used nok on norweign air to get a better price on plane ticket
+
+Input sentence 15 : we r flying weeks today on the a how has anyone elses flights been on rhe aircraft
+Actual correction 15 : <sos> we r flying weeks today on the a how has anyone elses flights been on rhe aircraft <eos>
+Predicted correction 15 : we r flying weeks today on the a how has anyone elses flights been on rhe aircraft
+
+Input sentence 16 : does anyone have any idea when the cheaper flights are released by the airlines for next summer
+Actual correction 16 : <sos> does anyone have any idea when the cheaper flights are released by the airlines for next summer <eos>
+Predicted correction 16 : does anyone have any idea when the cheaper flights are released by the airlines for next summer
+
+Input sentence 17 : has any booked flights cork manchesterorlando return with lastminutecom
+Actual correction 17 : <sos> has any booked flights cork manchesterorlando return with lastminutecom <eos>
+Predicted correction 17 : has any booked flights cork manchesterorlando return with lastminutecom
+
+Input sentence 18 : has anyone flown this route recently if so how did it compare to other airlines
+Actual correction 18 : <sos> has anyone flown this route recently if so how did it compare to other airlines <eos>
+Predicted correction 18 : has anyone flown this route recently if so how did it compare to other airlines
+
+Input sentence 19 : hi do they serve free drinks on trans atlantic flights still beer and soft drinks
+Actual correction 19 : <sos> [hi ]do they serve free drinks on trans atlantic flights still beer and soft drinks <eos>
+Predicted correction 19 : hi do they serve free drinks on trans atlantic flights still beer and soft drinks
+
+Input sentence 20 : do anyone have experience of flying tap to brazil any comments would be appreciated
+Actual correction 20 : <sos> do anyone have experience of flying tap to brazil [any comments would be appreciated] <eos>
+Predicted correction 20 : do anyone have experience of flying tap to brazil any comments would be appreciated
+
+Input sentence 21 : can anyone help please i am trying to find reviews on the above ticket agency thanks
+Actual correction 21 : <sos> [can anyone help please ]i am trying to find reviews on the above ticket agency [thanks] <eos>
+Predicted correction 21 : can anyone help please i am trying to find reviews on the above ticket agency thanks
+
+Input sentence 22 : can i fly tofrom croatia with an eu residence permit belgian but a noneu passport south african
+Actual correction 22 : <sos> can i fly tofrom croatia with an eu residence permit belgian but a noneu passport south african <eos>
+Predicted correction 22 : can i fly tofrom croatia with an eu residence permit belgian but a noneu passport south african
+
+Input sentence 23 : as title really anybody used this since it started in march
+Actual correction 23 : <sos> as title really anybody used this since it started in march <eos>
+Predicted correction 23 : as title really anybody used this since it started in march
+
+Input sentence 24 : what do u thing of the low cost airline click air
+Actual correction 24 : <sos> what do u thing of the low cost airline click air <eos>
+Predicted correction 24 : what do u thing of the low cost airline click air
+
+Input sentence 25 : do anyone have experience of flying tap to brazil any comments would be appreciated
+Actual correction 25 : <sos> do anyone have experience of flying tap to brazil [any comments would be appreciated] <eos>
+Predicted correction 25 : do anyone have experience of flying tap to brazil any comments would be appreciated
+
+Input sentence 26 : leaves melbourne just after midnight for singapore late dinner or an early breakfast which is served thanks
+Actual correction 26 : <sos> leaves melbourne just after midnight for singapore late dinner or an early breakfast which is served [thanks] <eos>
+Predicted correction 26 : leaves melbourne just after midnight for singapore late dinner or an early breakfast which is served thanks
+
+Input sentence 27 : has anyone any information on the availabilitycost of duty free on board or at doha on transfer
+Actual correction 27 : <sos> has anyone any information on the availabilitycost of duty free on board or at doha on transfer <eos>
+Predicted correction 27 : has anyone any information on the availabilitycost of duty free on board or at doha on transfer
+
+Input sentence 28 : has anyone tried out the new skycouch seats on air nz yet if so what did you think
+Actual correction 28 : <sos> has anyone tried out the new skycouch seats on air nz yet[ if so what did you think] <eos>
+Predicted correction 28 : we r flying weeks today on the a flight on the terminal meet and greet parking thanks
+
+Input sentence 29 : how can i post a warning about thomson flights to mexico
+Actual correction 29 : <sos> how can i post a warning about thomson flights to mexico <eos>
+Predicted correction 29 : how can i post a warning about thomson flights to mexico
+
+Input sentence 30 : will be in kolcutta on december looking for reasonable cheapclean place to stay all responses appreciated
+Actual correction 30 : <sos> will be in kolcutta on december  looking for reasonable cheapclean place to stay [all responses appreciated] <eos>
+Predicted correction 30 : will be in kolcutta on december looking for reasonable cheapclean place to stay all responses appreciated
+
+Input sentence 31 : when the price goes down when the sale ends of course bbccoukblogswatchdogflightshtml
+Actual correction 31 : <sos> when the price goes down when the sale ends of course bbccoukblogswatchdogflightshtml <eos>
+Predicted correction 31 : when the price goes down when the sale ends of course bbccoukblogswatchdogflightshtml
+
+Input sentence 32 : i know my severely allergic friends will be happy about this cbccanewscatsairtravelhtml
+Actual correction 32 : <sos> i know my severely allergic friends will be happy about this cbccanews…catsairtravelhtml <eos>
+Predicted correction 32 : i know my severely allergic friends will be happy about this cbccanews…catsairtravelhtml
+
+Input sentence 33 : hiflying to cancun from gatwick in januarywondering of you are allowed to use your netbook on the flight thanks
+Actual correction 33 : <sos> [hi]flying to cancun from gatwick in januarywondering of you are allowed to use your netbook on the flight [thanks] <eos>
+Predicted correction 33 : has anyone used nok on the cheapest ba flight to use your netbook on the flight thanks
+
+Input sentence 34 : how do i receive a refund for a flight canceled during the volcanic ash disaster
+Actual correction 34 : <sos> how do i receive a refund for a flight canceled during the volcanic ash disaster <eos>
+Predicted correction 34 : how do i receive a refund for a flight canceled during the volcanic ash disaster
+
+Input sentence 35 : how can i post a warning about thomson flights to mexico
+Actual correction 35 : <sos> how can i post a warning about thomson flights to mexico <eos>
+Predicted correction 35 : how can i post a warning about thomson flights to mexico
+
+Input sentence 36 : quick question how accurate are the airline seat maps on expediacom
+Actual correction 36 : <sos> [quick question ]how accurate are the airline seat maps on expediacom <eos>
+Predicted correction 36 : quick question how accurate are the airline seat maps on expediacom
+
+Input sentence 37 : httpwwwrteienewsairhtml ryanaircomeniaastrikejangb httpwwwaerlinguscomcgibinobelimservicesdisruptionjspbvsessionidbvengineidccceadejgmgdgklcefecfigdffgdfkgpoidcategory edited pm january
+Actual correction 37 : <sos> httpwwwrteienewsairhtml ryanaircomen…iaa_strike__jangb httpwwwaerlinguscomcgibinobelimservicesdisruption_jspbv_sessionid&bv_engineidccceadejgmgdgklcefecfigdffgdfkg&p_oid&category edited  pm january <eos>
+Predicted correction 37 : httpwwwrteienewsairhtml ryanaircomen…iaa strike jangb httpwwwaerlinguscomcgibinobelimservicesdisruption jspbv sessionid bv engineidccceadejgmgdgklcefecfigdffgdfkg p oid category edited pm january
+
+Input sentence 38 : does anyone know whether wine boxes are available in the terminal duty free please
+Actual correction 38 : <sos> does anyone know whether wine boxes are available in the terminal duty free [please] <eos>
+Predicted correction 38 : does anyone know whether wine boxes are available in the terminal duty free please
+
+Input sentence 39 : can i fly tofrom croatia with an eu residence permit belgian but a noneu passport south african
+Actual correction 39 : <sos> can i fly tofrom croatia with an eu residence permit belgian but a noneu passport south african <eos>
+Predicted correction 39 : can i fly tofrom croatia with an eu residence permit belgian but a noneu passport south african
+
+Input sentence 40 : can someone confirm which london airport is used by qatar for flights tofrom australia their website isnt much help
+Actual correction 40 : <sos> [can someone confirm ]which london airport is used by qatar for flights tofrom australia [their website isn't much help] <eos>
+Predicted correction 40 : has anyone used nok on the above flights may be released by easyjet please
+
+Input sentence 41 : interesting story i stumbled across today whilst reading the papers usatodaycomflights regards dilbertphilbert
+Actual correction 41 : <sos> interesting story i stumbled across today whilst reading the papers …usatodaycomflights… regards dilbertphilbert <eos>
+Predicted correction 41 : interesting story i stumbled across today whilst reading the papers …usatodaycomflights… regards dilbertphilbert
+
+Input sentence 42 : interesting story i stumbled across today whilst reading the papers usatodaycomflights regards dilbertphilbert
+Actual correction 42 : <sos> interesting story i stumbled across today whilst reading the papers …usatodaycomflights… regards dilbertphilbert <eos>
+Predicted correction 42 : interesting story i stumbled across today whilst reading the papers …usatodaycomflights… regards dilbertphilbert
+
+Input sentence 43 : can anyone tell me if there are any glutenfree dining options in this terminal and if so which
+Actual correction 43 : <sos> can anyone tell me if there are any glutenfree dining options in this terminal [and if so which] <eos>
+Predicted correction 43 : which is the best airline options in california for connections to be on plane ticket
+
+Input sentence 44 : hi all when do flights come on sale from man to thailand thankyou
+Actual correction 44 : <sos> [hi all ]when do flights come on sale from man to thailand [thankyou] <eos>
+Predicted correction 44 : hi all when do flights come on sale from man to thailand thankyou
+
+Input sentence 45 : im a tripadvisor reviewer where can i review my awful experience with tam airlines thanks
+Actual correction 45 : <sos> [i'm a tripadvisor reviewer] where can i review my awful experience with tam airlines [thanks] <eos>
+Predicted correction 45 : i'm a tripadvisor reviewer where can i review my awful experience with tam airlines thanks
+
+Input sentence 46 : can someone confirm which london airport is used by qatar for flights tofrom australia their website isnt much help
+Actual correction 46 : <sos> [can someone confirm ]which london airport is used by qatar for flights tofrom australia [their website isn't much help] <eos>
+Predicted correction 46 : can anyone tell me when the above flights may be released by easyjet please
+
+Input sentence 47 : hi do they serve free drinks on trans atlantic flights still beer and soft drinks
+Actual correction 47 : <sos> [hi ]do they serve free drinks on trans atlantic flights still beer and soft drinks <eos>
+Predicted correction 47 : hi do they serve free drinks on trans atlantic flights still beer and soft drinks
+
+Input sentence 48 : has anyone used businessclass ltd to book flight to new zealand
+Actual correction 48 : <sos> has anyone used businessclass ltd to book flight to new zealand <eos>
+Predicted correction 48 : has anyone used businessclass ltd to book flight to new zealand
+
+Input sentence 49 : hi cheapest way to send excess baggage from rural australia to uk
+Actual correction 49 : <sos> [hi ]cheapest way to send excess baggage from rural australia to uk <eos>
+Predicted correction 49 : hi cheapest way to send excess baggage from rural australia to uk
+
+Input sentence 50 : anyone know if aa have a primium cabin or is the only upgrade business class
+Actual correction 50 : <sos> anyone know if aa have a primium cabin or is the only upgrade business class <eos>
+Predicted correction 50 : anyone know if aa have a primium cabin or is the only upgrade business class
+
+Input sentence 51 : i want to visit bangkok do i need to apply for visa tessy from nigeria
+Actual correction 51 : <sos> i want to visit bangkok do i need to apply for visa [tessy from nigeria] <eos>
+Predicted correction 51 : i want to visit bangkok do i need to apply for visa tessy from nigeria
+
+Input sentence 52 : hi we are flying with thomson could i take a packed lunch in my hand luggage
+Actual correction 52 : <sos> [hi ]we are flying with thomson could i take a packed lunch in my hand luggage <eos>
+Predicted correction 52 : hi we are flying with thomson could i take a packed lunch in my hand luggage
+
+Input sentence 53 : does anyone know which central american city is likely to have the best cheapest flight from la
+Actual correction 53 : <sos> does anyone know which central american city is likely to have the best cheapest flight from la <eos>
+Predicted correction 53 : does anyone know which central american city is likely to have the best cheapest flight from la
+
+Input sentence 54 : how do i receive a refund for a flight canceled during the volcanic ash disaster
+Actual correction 54 : <sos> how do i receive a refund for a flight canceled during the volcanic ash disaster <eos>
+Predicted correction 54 : how do i receive a refund for a flight canceled during the volcanic ash disaster
+
+Input sentence 55 : when the price goes down when the sale ends of course bbccoukblogswatchdogflightshtml
+Actual correction 55 : <sos> when the price goes down when the sale ends of course bbccoukblogswatchdogflightshtml <eos>
+Predicted correction 55 : when the price goes down when the sale ends of course bbccoukblogswatchdogflightshtml
+
+Input sentence 56 : i just noticed that someone was selling emirates miles on ebay is this legal
+Actual correction 56 : <sos> i just noticed that someone was selling emirates miles on ebay is this legal <eos>
+Predicted correction 56 : i just noticed that someone was selling emirates miles on ebay is this legal
+
+Input sentence 57 : does anyone know what is going on with all the cancellations of late tokyo gold coast
+Actual correction 57 : <sos> [does anyone know ]what is going on with all the cancellations of late tokyo gold coast <eos>
+Predicted correction 57 : does anyone know what is going on with all the cancellations of late tokyo gold coast
+
+Input sentence 58 : which is best seats and comfort a big plusany help would be greatful
+Actual correction 58 : <sos> which is best seats and comfort a big plus[any help would be greatful] <eos>
+Predicted correction 58 : which is best seats and comfort a big plus any help would be greatful
+
+Input sentence 59 : is anyone having trouble selecting theirs seats with thomsons cruising the dream dec th
+Actual correction 59 : <sos> is anyone having trouble selecting theirs seats with thomsons [cruising the dream dec th ] <eos>
+Predicted correction 59 : is anyone having trouble selecting theirs seats with thomsons cruising the dream dec th
+
+Input sentence 60 : how do i receive a refund for a flight canceled during the volcanic ash disaster
+Actual correction 60 : <sos> how do i receive a refund for a flight canceled during the volcanic ash disaster <eos>
+Predicted correction 60 : how do i receive a refund for a flight canceled during the volcanic ash disaster
+
+Input sentence 61 : can anyone please suggest me some luggage those can be easily portable to air journey thanks in advance
+Actual correction 61 : <sos> can anyone please suggest me some luggage those can be easily portable to air journey [thanks in advance] <eos>
+Predicted correction 61 : can anyone help please i am trying to find reviews on the above ticket agency thanks
+
+Input sentence 62 : hello i can not find transavia holland in the list airlines
+Actual correction 62 : <sos> [hello ]i can not find transavia holland in the list airlines <eos>
+Predicted correction 62 : hello i can not find transavia holland in the list airlines
+
+Input sentence 63 : does anyone know which central american city is likely to have the best cheapest flight from la
+Actual correction 63 : <sos> does anyone know which central american city is likely to have the best cheapest flight from la <eos>
+Predicted correction 63 : does anyone know which central american city is likely to have the best cheapest flight from la
+
+Input sentence 64 : does anyone know if this company is still operating it has a website but no flight info
+Actual correction 64 : <sos> does anyone know if this company is still operating [it has a website but no flight info] <eos>
+Predicted correction 64 : does anyone know if this company is still operating it has a website but no flight info
+
+Input sentence 65 : we r flying weeks today on the a how has anyone elses flights been on rhe aircraft
+Actual correction 65 : <sos> we r flying weeks today on the a how has anyone elses flights been on rhe aircraft <eos>
+Predicted correction 65 : we r flying weeks today on the a how has anyone elses flights been on rhe aircraft
+
+Input sentence 66 : how much time it takes to collect bags from mumbai airport incase of turkish airlines
+Actual correction 66 : <sos> how much time it takes to collect bags from mumbai airport incase of turkish airlines <eos>
+Predicted correction 66 : how much time it takes to collect bags from mumbai airport incase of turkish airlines
+
+Input sentence 67 : hi we are flying with thomson could i take a packed lunch in my hand luggage
+Actual correction 67 : <sos> [hi ]we are flying with thomson could i take a packed lunch in my hand luggage <eos>
+Predicted correction 67 : hi we are flying with thomson could i take a packed lunch in my hand luggage
+
+Input sentence 68 : quick question how accurate are the airline seat maps on expediacom
+Actual correction 68 : <sos> [quick question ]how accurate are the airline seat maps on expediacom <eos>
+Predicted correction 68 : quick question how accurate are the airline seat maps on expediacom
+
+Input sentence 69 : i want to visit bangkok do i need to apply for visa tessy from nigeria
+Actual correction 69 : <sos> i want to visit bangkok do i need to apply for visa [tessy from nigeria] <eos>
+Predicted correction 69 : i want to visit bangkok do i need to apply for visa tessy from nigeria
+
+Input sentence 70 : can anyone tell me if there are any glutenfree dining options in this terminal and if so which
+Actual correction 70 : <sos> can anyone tell me if there are any glutenfree dining options in this terminal [and if so which] <eos>
+Predicted correction 70 : which is if aa have a primium cabin or is the terminal meet and if so which
+
+Input sentence 71 : will be in kolcutta on december looking for reasonable cheapclean place to stay all responses appreciated
+Actual correction 71 : <sos> will be in kolcutta on december  looking for reasonable cheapclean place to stay [all responses appreciated] <eos>
+Predicted correction 71 : will be in kolcutta on december looking for reasonable cheapclean place to stay all responses appreciated
+
+Input sentence 72 : does anyone know if this company is still operating it has a website but no flight info
+Actual correction 72 : <sos> does anyone know if this company is still operating [it has a website but no flight info] <eos>
+Predicted correction 72 : does anyone know if this company is still operating it has a website but no flight info
+
+Input sentence 73 : how can i post a warning about thomson flights to mexico
+Actual correction 73 : <sos> how can i post a warning about thomson flights to mexico <eos>
+Predicted correction 73 : how can i post a warning about thomson flights to mexico
+
+Input sentence 74 : what are the best airline options when flying manchester to havana
+Actual correction 74 : <sos> what are the best airline options when flying manchester to havana <eos>
+Predicted correction 74 : what are the best airline options when flying manchester to havana
+
+Input sentence 75 : can someone confirm which london airport is used by qatar for flights tofrom australia their website isnt much help
+Actual correction 75 : <sos> [can someone confirm ]which london airport is used by qatar for flights tofrom australia [their website isn't much help] <eos>
+Predicted correction 75 : does anyone know which is used by qatar for flights tofrom australia their website isn't much help
+
+Input sentence 76 : im a tripadvisor reviewer where can i review my awful experience with tam airlines thanks
+Actual correction 76 : <sos> [i'm a tripadvisor reviewer] where can i review my awful experience with tam airlines [thanks] <eos>
+Predicted correction 76 : i'm a tripadvisor reviewer where can i review my awful experience with tam airlines thanks
+
+Input sentence 77 : has anyone flown this route recently if so how did it compare to other airlines
+Actual correction 77 : <sos> has anyone flown this route recently if so how did it compare to other airlines <eos>
+Predicted correction 77 : has anyone flown this route recently if so how did it compare to other airlines
+
+Input sentence 78 : i know my severely allergic friends will be happy about this cbccanewscatsairtravelhtml
+Actual correction 78 : <sos> i know my severely allergic friends will be happy about this cbccanews…catsairtravelhtml <eos>
+Predicted correction 78 : i know my severely allergic friends will be happy about this cbccanews…catsairtravelhtml
+
+Input sentence 79 : evening just wondered if anyone had a valid discount code for the terminal meet and greet parking thanks
+Actual correction 79 : <sos> [evening ]just wondered if anyone had a valid discount code for the terminal meet and greet parking [thanks] <eos>
+Predicted correction 79 : does anyone know if this company is still operating it has anyone
+
+Input sentence 80 : can you take knitting needles in hand luggage on qantas and american airlines
+Actual correction 80 : <sos> can you take knitting needles in hand luggage on qantas and american airlines <eos>
+Predicted correction 80 : can you take knitting needles in hand luggage on qantas and american airlines
+
+Input sentence 81 : when the price goes down when the sale ends of course bbccoukblogswatchdogflightshtml
+Actual correction 81 : <sos> when the price goes down when the sale ends of course bbccoukblogswatchdogflightshtml <eos>
+Predicted correction 81 : when the price goes down when the sale ends of course bbccoukblogswatchdogflightshtml
+
+Input sentence 82 : looking to fly to usa sept when is optimum time to book ahead to get best price tickets
+Actual correction 82 : <sos> looking to fly to usa sept  when is optimum time to book ahead to get best price tickets <eos>
+Predicted correction 82 : which is best seats and comfort a big plus any help would be greatful
+
+Input sentence 83 : can anyone please suggest me some luggage those can be easily portable to air journey thanks in advance
+Actual correction 83 : <sos> can anyone please suggest me some luggage those can be easily portable to air journey [thanks in advance] <eos>
+Predicted correction 83 : can anyone help please i am trying to find reviews on the above ticket agency thanks
+
+Input sentence 84 : httpwwwrteienewsairhtml ryanaircomeniaastrikejangb httpwwwaerlinguscomcgibinobelimservicesdisruptionjspbvsessionidbvengineidccceadejgmgdgklcefecfigdffgdfkgpoidcategory edited pm january
+Actual correction 84 : <sos> httpwwwrteienewsairhtml ryanaircomen…iaa_strike__jangb httpwwwaerlinguscomcgibinobelimservicesdisruption_jspbv_sessionid&bv_engineidccceadejgmgdgklcefecfigdffgdfkg&p_oid&category edited  pm january <eos>
+Predicted correction 84 : httpwwwrteienewsairhtml ryanaircomen…iaa strike jangb httpwwwaerlinguscomcgibinobelimservicesdisruption jspbv sessionid bv engineidccceadejgmgdgklcefecfigdffgdfkg p oid category edited pm january
+
+Input sentence 85 : anyone know if aa have a primium cabin or is the only upgrade business class
+Actual correction 85 : <sos> anyone know if aa have a primium cabin or is the only upgrade business class <eos>
+Predicted correction 85 : anyone know if aa have a primium cabin or is the only upgrade business class
+
+Input sentence 86 : i just noticed that someone was selling emirates miles on ebay is this legal
+Actual correction 86 : <sos> i just noticed that someone was selling emirates miles on ebay is this legal <eos>
+Predicted correction 86 : i just noticed that someone was selling emirates miles on ebay is this legal
+
+Input sentence 87 : its from ba and finds the cheapest ba flight on a route britishairwayscomtravelengb
+Actual correction 87 : <sos> it's from ba and finds the cheapest ba flight on a route britishairwayscomtravel…en_gb <eos>
+Predicted correction 87 : it's from ba and finds the cheapest ba flight on a route britishairwayscomtravel…en gb
+
+Input sentence 88 : hi do they serve free drinks on trans atlantic flights still beer and soft drinks
+Actual correction 88 : <sos> [hi ]do they serve free drinks on trans atlantic flights still beer and soft drinks <eos>
+Predicted correction 88 : hi do they serve free drinks on trans atlantic flights still beer and soft drinks
+
+Input sentence 89 : we r flying weeks today on the a how has anyone elses flights been on rhe aircraft
+Actual correction 89 : <sos> we r flying weeks today on the a how has anyone elses flights been on rhe aircraft <eos>
+Predicted correction 89 : we r flying weeks today on the a how has anyone elses flights been on rhe aircraft
+
+Input sentence 90 : does anyone know whether wine boxes are available in the terminal duty free please
+Actual correction 90 : <sos> does anyone know whether wine boxes are available in the terminal duty free [please] <eos>
+Predicted correction 90 : does anyone know whether wine boxes are available in the terminal duty free please
+
+Input sentence 91 : i just noticed that someone was selling emirates miles on ebay is this legal
+Actual correction 91 : <sos> i just noticed that someone was selling emirates miles on ebay is this legal <eos>
+Predicted correction 91 : i just noticed that someone was selling emirates miles on ebay is this legal
+
+Input sentence 92 : httpwwwrteienewsairhtml ryanaircomeniaastrikejangb httpwwwaerlinguscomcgibinobelimservicesdisruptionjspbvsessionidbvengineidccceadejgmgdgklcefecfigdffgdfkgpoidcategory edited pm january
+Actual correction 92 : <sos> httpwwwrteienewsairhtml ryanaircomen…iaa_strike__jangb httpwwwaerlinguscomcgibinobelimservicesdisruption_jspbv_sessionid&bv_engineidccceadejgmgdgklcefecfigdffgdfkg&p_oid&category edited  pm january <eos>
+Predicted correction 92 : httpwwwrteienewsairhtml ryanaircomen…iaa strike jangb httpwwwaerlinguscomcgibinobelimservicesdisruption jspbv sessionid bv engineidccceadejgmgdgklcefecfigdffgdfkg p oid category edited pm january
+
+Input sentence 93 : evening just wondered if anyone had a valid discount code for the terminal meet and greet parking thanks
+Actual correction 93 : <sos> [evening ]just wondered if anyone had a valid discount code for the terminal meet and greet parking [thanks] <eos>
+Predicted correction 93 : does anyone know if there any on air from mumbai airport incase of turkish airlines
+
+Input sentence 94 : what do u thing of the low cost airline click air
+Actual correction 94 : <sos> what do u thing of the low cost airline click air <eos>
+Predicted correction 94 : what do u thing of the low cost airline click air
+
+Input sentence 95 : quick question how accurate are the airline seat maps on expediacom
+Actual correction 95 : <sos> [quick question ]how accurate are the airline seat maps on expediacom <eos>
+Predicted correction 95 : quick question how accurate are the airline seat maps on expediacom
+
+Input sentence 96 : has anyone used nok on norweign air to get a better price on plane ticket
+Actual correction 96 : <sos> has anyone used nok on norweign air to get a better price on plane ticket <eos>
+Predicted correction 96 : has anyone used nok on norweign air to get a better price on plane ticket
+
+Input sentence 97 : can anyone tell me when the above flights may be released by easyjet please
+Actual correction 97 : <sos> can anyone tell me when the above flights may be released by easyjet please <eos>
+Predicted correction 97 : can anyone tell me when the above flights may be released by easyjet please
+
+Input sentence 98 : looking to fly to usa sept when is optimum time to book ahead to get best price tickets
+Actual correction 98 : <sos> looking to fly to usa sept  when is optimum time to book ahead to get best price tickets <eos>
+Predicted correction 98 : is anyone know which central american city is likely to book ahead to get best price tickets
+
+Input sentence 99 : does anyone know whether wine boxes are available in the terminal duty free please
+Actual correction 99 : <sos> does anyone know whether wine boxes are available in the terminal duty free [please] <eos>
+Predicted correction 99 : does anyone know whether wine boxes are available in the terminal duty free please
+
+Input sentence 100 : hi all when do flights come on sale from man to thailand thankyou
+Actual correction 100 : <sos> [hi all ]when do flights come on sale from man to thailand [thankyou] <eos>
+Predicted correction 100 : hi all when do flights come on sale from man to thailand thankyou

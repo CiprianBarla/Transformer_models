@@ -1,0 +1,399 @@
+Input sentence 1 : have you eaten your food
+Actual translation 1 : <sos> sos क्या आपने खाना खा लिया eos <eos>
+Predicted translation 1 : क्या आपने खाना खा लिया eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 2 : i dont know how but tom did it
+Actual translation 2 : <sos> sos पता नहीं कैसे पर टॉम ने कर दिया eos <eos>
+Predicted translation 2 : पता नहीं कैसे पर टॉम ने कर दिया eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 3 : tell me the name of the ninth month
+Actual translation 3 : <sos> sos मुझे नौवे महीने का नाम बताओ eos <eos>
+Predicted translation 3 : मुझे नौवे महीने का नाम बताओ eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 4 : its easy to add to
+Actual translation 4 : <sos> sos पाँच से दस को जोड़ना बहुत आसान है eos <eos>
+Predicted translation 4 : पाँच से दस को जोड़ना बहुत आसान है eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 5 : i cant swallow these tablets without a drink of water
+Actual translation 5 : <sos> sos मैं पानी के बिना इन गोलियों को निगल नहीं सकती eos <eos>
+Predicted translation 5 : मैं पानी के बिना इन गोलियों को निगल नहीं सकती eos eos eos eos eos eos eos eos
+
+Input sentence 6 : many people around the world dont have access to good quality water
+Actual translation 6 : <sos> sos दुनिया भर में बहुत से लोगों को अच्छा पानी उपलब्ध नहीं है eos <eos>
+Predicted translation 6 : दुनिया भर में बहुत से लोगों को अच्छा पानी उपलब्ध नहीं है eos eos eos eos eos eos
+
+Input sentence 7 : hes always running short of cash
+Actual translation 7 : <sos> sos उसको हमेशा पैसों की कमी होती है eos <eos>
+Predicted translation 7 : उसको हमेशा पैसों की कमी होती है eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 8 : my right foot is sleeping
+Actual translation 8 : <sos> sos मेरा दाहिना पैर सो गया है eos <eos>
+Predicted translation 8 : मेरा दाहिना पैर सो गया है eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 9 : i have to answer his letter
+Actual translation 9 : <sos> sos मुझे उसकी चिट्ठी का जवाब देना है eos <eos>
+Predicted translation 9 : मुझे उसकी चिट्ठी का जवाब देना है eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 10 : the plane will take off in one hour
+Actual translation 10 : <sos> sos विमान एक घंटे में उड़ान भरेगा eos <eos>
+Predicted translation 10 : विमान एक घंटे में उड़ान भरेगा eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 11 : tom has never trusted me
+Actual translation 11 : <sos> sos टॉम ने कभी मुझ पर भरोसा नहीं किया eos <eos>
+Predicted translation 11 : टॉम ने कभी मुझ पर भरोसा नहीं किया eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 12 : tom handed the list to mary
+Actual translation 12 : <sos> sos टॉम ने मैरी को सूची देदी eos <eos>
+Predicted translation 12 : टॉम ने मैरी को सूची देदी eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 13 : she plays tennis very well
+Actual translation 13 : <sos> sos वह टेनिस बहुत अच्छा खेलती है eos <eos>
+Predicted translation 13 : वह टेनिस बहुत अच्छा खेलती है eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 14 : i dont care what they say
+Actual translation 14 : <sos> sos वे जो मर्ज़ी कहें मुझे उससे कोई फ़र्क नहीं पड़ता eos <eos>
+Predicted translation 14 : वे जो मर्ज़ी कहें मुझे उससे कोई फ़र्क नहीं पड़ता eos eos eos eos eos eos eos eos
+
+Input sentence 15 : ill let you know when it has been decided
+Actual translation 15 : <sos> sos निर्णय होने पर आपको बता दूँगा eos <eos>
+Predicted translation 15 : निर्णय होने पर आपको बता दूँगा eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 16 : its about time for the train to arrive
+Actual translation 16 : <sos> sos ट्रेन के आने का समय लगभग आ गया है eos <eos>
+Predicted translation 16 : ट्रेन के आने का समय लगभग आ गया है eos eos eos eos eos eos eos eos eos
+
+Input sentence 17 : my birthday is one month from today
+Actual translation 17 : <sos> sos मेरा जन्मदिन आज से एक महीने में है eos <eos>
+Predicted translation 17 : मेरा जन्मदिन आज से एक महीने में है eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 18 : how long have you been abroad
+Actual translation 18 : <sos> sos आप विदेश में कबसे हैं eos <eos>
+Predicted translation 18 : आप विदेश में किता समय रहे हैं eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 19 : the gentleman is a very famous pianist
+Actual translation 19 : <sos> sos यह महाशय बहुत जानेमाने पियानिस्ट हैं eos <eos>
+Predicted translation 19 : यह महाशय बहुत जानेमाने पियानिस्ट हैं eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 20 : they have an open marriage
+Actual translation 20 : <sos> sos उनकी ओपन मैरिज है eos <eos>
+Predicted translation 20 : उनकी ओपन मैरिज है eos eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 21 : lets get together here once a week
+Actual translation 21 : <sos> sos हमे यहाँ हफ़्ते में एक बार मिलना चाहिए eos <eos>
+Predicted translation 21 : हमे यहाँ हफ़्ते में एक बार मिलना चाहिए eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 22 : ill never forget how kind you have been
+Actual translation 22 : <sos> sos मैं आपके अच्छेपन को कभी नहीं भूलूँगा eos <eos>
+Predicted translation 22 : मैं आपके अच्छेपन को कभी नहीं भूलूँगा eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 23 : do you see a black horse
+Actual translation 23 : <sos> sos क्या आप काले घोड़े को देखते हो eos <eos>
+Predicted translation 23 : क्या आप काले घोड़े को देखते हो eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 24 : this book is very thin
+Actual translation 24 : <sos> sos यह किताब बहुत पतली है eos <eos>
+Predicted translation 24 : यह किताब बहुत पतली है eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 25 : football is my favorite game
+Actual translation 25 : <sos> sos फ़ुटबॉल मेरा सबसे पसंदीता खेल है eos <eos>
+Predicted translation 25 : फ़ुटबॉल मेरा सबसे पसंदीता खेल है eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 26 : ill be staying here in australia for three months
+Actual translation 26 : <sos> sos मैं तीन महीने के लिए यहां ऑस्ट्रेलिया में रहूंगा eos <eos>
+Predicted translation 26 : मैं तीन महीने के लिए यहां ऑस्ट्रेलिया में रहूंगा eos eos eos eos eos eos eos eos eos
+
+Input sentence 27 : the hole is about five feet across
+Actual translation 27 : <sos> sos गड्ढा पाँच फ़ुट चौड़ा है eos <eos>
+Predicted translation 27 : गड्ढा पाँच फ़ुट चौड़ा है eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 28 : wont you come and see me next week
+Actual translation 28 : <sos> sos मुझे अगले हफ़्ते देखने आओगे ना eos <eos>
+Predicted translation 28 : मुझे अगले हफ़्ते देखने आओगे ना eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 29 : i dont have much money in the bank
+Actual translation 29 : <sos> sos मेरे पास बैंक में ज़्यादा पैसे नहीं है eos <eos>
+Predicted translation 29 : मेरे पास बैंक में ज़्यादा पैसे नहीं है eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 30 : i gave him what money i had
+Actual translation 30 : <sos> sos मेरे पास जो भी पैसे थे मैंने उसे दे दिए eos <eos>
+Predicted translation 30 : मेरे पास जो भी पैसे थे मैंने उसे दे दिए eos eos eos eos eos eos eos eos
+
+Input sentence 31 : i cannot tolerate naughty children
+Actual translation 31 : <sos> sos मैं नटखट बच्चों को बर्दाश्त नहीं कर सकता eos <eos>
+Predicted translation 31 : मैं नटखट बच्चों को बर्दाश्त नहीं कर सकता eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 32 : how many books do you have
+Actual translation 32 : <sos> sos तुम्हारे पास कितनी किताबें हैं eos <eos>
+Predicted translation 32 : तुम्हारे पास कितनी किताबें हैं eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 33 : she could not come because of her illness
+Actual translation 33 : <sos> sos वह बीमारी की वजह से नहीं आ सका eos <eos>
+Predicted translation 33 : वह बीमारी की वजह से नहीं आ सका eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 34 : she felt insecure about her future
+Actual translation 34 : <sos> sos उसको अपना आने वाला कल थोड़ा डाँवाडोल लगा eos <eos>
+Predicted translation 34 : उसको अपना आने वाला कल थोड़ा डाँवाडोल लगा eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 35 : i will give you a large folder
+Actual translation 35 : <sos> sos मैं तुम्हें एक बड़ा फ़ोल्डर दूँगा eos <eos>
+Predicted translation 35 : मैं तुम्हें एक बड़ा फ़ोल्डर दूँगा eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 36 : i had met her many times before then
+Actual translation 36 : <sos> sos मैं उससे पहले कई बार मिल चुका था eos <eos>
+Predicted translation 36 : मैं उससे पहले कई बार मिल चुका था eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 37 : if possible id like to travel around the world
+Actual translation 37 : <sos> sos अगर हो सके तो मैं विष्व यात्रा पर जाना चाहूँगा eos <eos>
+Predicted translation 37 : अगर हो सके तो मैं विष्व यात्रा पर जाना चाहूँगा eos eos eos eos eos eos eos eos
+
+Input sentence 38 : why were you late this morning
+Actual translation 38 : <sos> sos तुम आज सुबह देर से क्यों आए eos <eos>
+Predicted translation 38 : तुम आज सुबह देर से क्यों आए eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 39 : i wish i could help
+Actual translation 39 : <sos> sos काश मैं मदद कर पाता eos <eos>
+Predicted translation 39 : काश मैं मदद कर पाता eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 40 : im sorry my father is out
+Actual translation 40 : <sos> sos माफ़ कीजिएगा मेरे पापा अभी घर पर नहीं हैं eos <eos>
+Predicted translation 40 : माफ़ कीजिएगा मेरे पापा अभी घर पर नहीं हैं eos eos eos eos eos eos eos eos eos
+
+Input sentence 41 : he explained the rule to me
+Actual translation 41 : <sos> sos उसने मुझे वह नियम समझाया eos <eos>
+Predicted translation 41 : उसने मुझे वह नियम समझाया eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 42 : my eye has swollen up
+Actual translation 42 : <sos> sos मेरी आँख सूज गई है eos <eos>
+Predicted translation 42 : मेरी आँख सूज गई है eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 43 : i was taking a bath when he came
+Actual translation 43 : <sos> sos जब वह आया मैं नहा रहा था eos <eos>
+Predicted translation 43 : जब वह आया मैं नहा रहा था eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 44 : oh no were running out of gas
+Actual translation 44 : <sos> sos अरे नहीं पेट्रोल खतम होने वाला है eos <eos>
+Predicted translation 44 : अरे नहीं पेट्रोल खतम होने वाला है eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 45 : what do you want to see
+Actual translation 45 : <sos> sos तुम क्या देखना चाहते हो eos <eos>
+Predicted translation 45 : आप क्या देखना चाहते हैं eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 46 : do you know tom personally
+Actual translation 46 : <sos> sos क्या आप व्यक्तिगत रूप से टॉम को जानते हैं eos <eos>
+Predicted translation 46 : क्या आप व्यक्तिगत रूप से टॉम को जानते हैं eos eos eos eos eos eos eos eos eos
+
+Input sentence 47 : she complained to me of his rudeness
+Actual translation 47 : <sos> sos उसने मुझसे उसकी असभ्यता के बारे में शिक़ायत करी eos <eos>
+Predicted translation 47 : उसने मुझसे उसकी असभ्यता के बारे में शिक़ायत करी eos eos eos eos eos eos eos eos eos
+
+Input sentence 48 : most people like watching tv
+Actual translation 48 : <sos> sos ज़्यादातर लोगों को टीवी देखना अच्छा लगता है eos <eos>
+Predicted translation 48 : ज़्यादातर लोगों को टीवी देखना अच्छा लगता है eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 49 : i am sorry if i disturbed you
+Actual translation 49 : <sos> sos माफ़ कीजिएगा अगर मैंने आपको परेशान किया तो eos <eos>
+Predicted translation 49 : माफ़ कीजिएगा अगर मैंने आपको परेशान किया तो मैं eos eos eos eos eos eos eos eos eos
+
+Input sentence 50 : his shoes were so old that his toes were sticking out of them
+Actual translation 50 : <sos> sos उसके जूते इतने पुराने थे कि उनमें से उसकी ऊँगलियाँ निकल रहीं थीं eos <eos>
+Predicted translation 50 : उसके जूते इतने पुराने थे कि उनमें से उसकी ऊँगलियाँ निकल रहीं थीं eos eos eos eos था
+
+Input sentence 51 : he set fire to his own house
+Actual translation 51 : <sos> sos उसने अपने ही घर को आग लगा दी eos <eos>
+Predicted translation 51 : उसने अपने ही घर को आग लगा दी eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 52 : do you believe in fairies
+Actual translation 52 : <sos> sos तुम परियों में विश्वास करती हो क्या eos <eos>
+Predicted translation 52 : तुम परियों में विश्वास करते हो क्या eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 53 : it is said that he is the richest man in the world
+Actual translation 53 : <sos> sos कहा जाता है कि वह दुनिया में सबसे अमीर आदमी है eos <eos>
+Predicted translation 53 : कहा जाता है कि वह दुनिया में सबसे अमीर आदमी है eos eos eos eos eos eos eos
+
+Input sentence 54 : as the saying goes nothing ventured nothing gained
+Actual translation 54 : <sos> sos एक कहावत है कुछ पाने के लिए कुछ खोना पड़ता है eos <eos>
+Predicted translation 54 : एक कहावत है कुछ पाने के लिए कुछ खोना पड़ता है eos eos eos eos eos eos eos
+
+Input sentence 55 : when do you usually get off work
+Actual translation 55 : <sos> sos तुम आमतौर पर कितने बजे काम से छूटते हो eos <eos>
+Predicted translation 55 : तुम आमतौर पर कितने बजे काम से छूटते हो eos eos eos eos eos eos eos eos eos
+
+Input sentence 56 : it is no use worrying about it
+Actual translation 56 : <sos> sos इसके बारे में चिंता करने से कोई फ़ायदा नहीं है eos <eos>
+Predicted translation 56 : इसके बारे में चिंता करने से कोई फ़ायदा नहीं है eos eos eos eos eos eos eos eos
+
+Input sentence 57 : is it about ten million yen
+Actual translation 57 : <sos> sos तकरीबन दस एक अरब येन होंगे eos <eos>
+Predicted translation 57 : तकरीबन दस एक अरब येन होंगे eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 58 : the men went hunting for lions
+Actual translation 58 : <sos> sos वे आदमी शेरों का शिकार करने निकले eos <eos>
+Predicted translation 58 : वे आदमी शेरों का शिकार करने निकले eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 59 : the boy stripped off his clothes
+Actual translation 59 : <sos> sos उस लड़के ने अपने सारे कपड़े उतारे eos <eos>
+Predicted translation 59 : उस लड़के ने अपने सारे कपड़े उतारे eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 60 : tom has graduated from college
+Actual translation 60 : <sos> sos टॉम ने कॉलेज से स्नातक कर लिया है eos <eos>
+Predicted translation 60 : टॉम ने कॉलेज से स्नातक कर लिया है eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 61 : im busy with my homework
+Actual translation 61 : <sos> sos मैं अपने होमवर्क में लगा हुआ हूँ eos <eos>
+Predicted translation 61 : मैं अपने होमवर्क में लगा हुआ हूँ eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 62 : sickness prevented him from going out
+Actual translation 62 : <sos> sos वह बीमारी की वजह से बाहर नहीं जा सका eos <eos>
+Predicted translation 62 : वह बीमारी की वजह से बाहर नहीं जा सका eos eos eos eos eos eos eos eos eos
+
+Input sentence 63 : the box was so heavy i could not move it
+Actual translation 63 : <sos> sos डब्बा इतना भारी था कि मैं उसे हिला नहीं सका eos <eos>
+Predicted translation 63 : डब्बा इतना भारी था कि मैं उसे हिला नहीं सका eos eos eos eos eos eos eos eos
+
+Input sentence 64 : will you exchange this sweater for a larger one
+Actual translation 64 : <sos> sos आप यह स्वेटर बड़े नाप वाले के लिए बदल देंगे क्या eos <eos>
+Predicted translation 64 : आप यह स्वेटर बड़े नाप वाले के लिए बदल देंगे क्या eos eos eos eos eos eos eos
+
+Input sentence 65 : i need the following items
+Actual translation 65 : <sos> sos मुझे इन सभी चीजों की आवश्यकता है eos <eos>
+Predicted translation 65 : मुझे इन सभी चीजों की आवश्यकता है eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 66 : i wish i had more time to talk with you
+Actual translation 66 : <sos> sos काश मेरे पास और समय होता तुम्हारे साथ बात करने के लिए eos <eos>
+Predicted translation 66 : काश मेरे पास और समय होता तुम्हारे साथ बात करने के लिए eos eos eos eos eos eos
+
+Input sentence 67 : ill call you back later
+Actual translation 67 : <sos> sos मैं तुम्हें थोड़ी देर में फ़ोन करूँगा eos <eos>
+Predicted translation 67 : मैं तुम्हें थोड़ी देर में फ़ोन करूँगा eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 68 : after some hesitation he laid the book on the desk
+Actual translation 68 : <sos> sos थोड़ी हिचकिचाहट के बाद उसने किताब को मेज़ पर रखा eos <eos>
+Predicted translation 68 : थोड़ी हिचकिचाहट के बाद उसने किताब को मेज़ पर रखा eos eos eos eos eos eos eos eos
+
+Input sentence 69 : i have lots of work to clear up by the weekend
+Actual translation 69 : <sos> sos मुझे इस हफ़्ते बहुत सारा काम कर के खतम करना है eos <eos>
+Predicted translation 69 : मुझे इस हफ़्ते बहुत सारा काम कर के खतम करना है eos eos eos eos eos eos eos
+
+Input sentence 70 : the horse is a useful animal
+Actual translation 70 : <sos> sos घोड़ा बड़े काम का जानवर है eos <eos>
+Predicted translation 70 : घोड़ा बड़े काम का जानवर है eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 71 : i live in boston too
+Actual translation 71 : <sos> sos मैं भी बॉस्टन में ही रहता हूँ eos <eos>
+Predicted translation 71 : मैं भी बॉस्टन में ही रहता हूँ eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 72 : the king ordered that the prisoner should be set free
+Actual translation 72 : <sos> sos राजा ने हुक़्म दिया कि क़ैदी को रिहा कर दिया जाए eos <eos>
+Predicted translation 72 : राजा ने हुक़्म दिया कि क़ैदी को रिहा कर दिया जाए eos eos eos eos eos eos eos
+
+Input sentence 73 : he has many history books
+Actual translation 73 : <sos> sos उसके पास बहुत सारी इतिहास की किताबें हैं eos <eos>
+Predicted translation 73 : उसके पास बहुत सारी इतिहास की किताबें हैं eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 74 : my mother often suffers from headaches
+Actual translation 74 : <sos> sos मेरी माँ को अक्सर सिरदर्द होता है eos <eos>
+Predicted translation 74 : मेरी माँ को अक्सर सिरदर्द होता है eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 75 : how do you interpret this poem
+Actual translation 75 : <sos> sos इस कविता क्या आप क्या अर्थ निकालते हैं eos <eos>
+Predicted translation 75 : इस कविता का क्या मतलब निकालते हो क्या eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 76 : he asked me for some money
+Actual translation 76 : <sos> sos उसने मुझसे थोड़े पैसे माँगे eos <eos>
+Predicted translation 76 : उसने मुझसे थोड़े पैसे माँगे eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 77 : he was sentenced to death
+Actual translation 77 : <sos> sos उसे मौत की सज़ा दे दी गई eos <eos>
+Predicted translation 77 : उसे मौत की सज़ा दे दी गई eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 78 : my hobby is collecting coins
+Actual translation 78 : <sos> sos सिक्कों को इकट्ठा करना मेरा शौक है eos <eos>
+Predicted translation 78 : सिक्कों को इकट्ठा करना मेरा शौक है eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 79 : the dog followed him wherever he went
+Actual translation 79 : <sos> sos वह जहाँ भी जाए वह कुत्ता उसके पीछेपीछे जाता था eos <eos>
+Predicted translation 79 : वह जहाँ भी जाए वह कुत्ता उसके पीछेपीछे जाता था eos eos eos eos eos eos eos eos
+
+Input sentence 80 : have you ever written a book
+Actual translation 80 : <sos> sos आपने कभी किताब लिखी है क्या eos <eos>
+Predicted translation 80 : आपने कभी किताब लिखी है क्या eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 81 : ill come pick it up next monday
+Actual translation 81 : <sos> sos मैं अगले सोमवार आके ले जाऊंगा eos <eos>
+Predicted translation 81 : मैं अगले सोमवार आके ले जाऊंगा eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 82 : our class consists of fifty boys
+Actual translation 82 : <sos> sos हमारी कक्षा में पचास लड़के हैं eos <eos>
+Predicted translation 82 : हमारी कक्षा में पचास लड़के हैं eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 83 : he usually comes home late
+Actual translation 83 : <sos> sos वह आमतौर पर घर देर से आता है eos <eos>
+Predicted translation 83 : वह आमतौर पर घर देर से आता है eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 84 : she was crying in her room
+Actual translation 84 : <sos> sos वह अपने कमरे में रो रही थी eos <eos>
+Predicted translation 84 : वह अपने कमरे में रो रही थी eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 85 : will you have another cup of tea
+Actual translation 85 : <sos> sos एक और गिलास चाय लेंगे क्या eos <eos>
+Predicted translation 85 : क्या आप एक और एक भी मदद नहीं है eos eos eos eos eos eos eos eos eos
+
+Input sentence 86 : they wont believe me even if i swear it is true
+Actual translation 86 : <sos> sos वे मेरा विश्वास नहीं करेंगे चाहे मैं कसम भी क्यों न खालूँ eos <eos>
+Predicted translation 86 : वे मेरा विश्वास नहीं करेंगे चाहे मैं कसम भी क्यों न खालूँ eos eos eos eos eos eos
+
+Input sentence 87 : it happened between eight and ten
+Actual translation 87 : <sos> sos आठ से दस बजे के बीच हुआ eos <eos>
+Predicted translation 87 : आठ से दस बजे के बीच हुई eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 88 : she said to herself i am very happy
+Actual translation 88 : <sos> sos उसने अपने आप से कहा मैं बहुत खुश हूँ eos <eos>
+Predicted translation 88 : उसने अपने आप से कहा मैं बहुत खुश हूँ eos eos eos eos eos eos eos eos eos
+
+Input sentence 89 : i still dont know yet
+Actual translation 89 : <sos> sos मुझे अभी भी नहीं पता eos <eos>
+Predicted translation 89 : मुझे अभी भी नहीं पता नहीं eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 90 : it is dangerous to ride a motorbike without a helmet
+Actual translation 90 : <sos> sos हेलमेट पहने बिना मोटरसाईकल चलाना बहुत खतरनाक होता है eos <eos>
+Predicted translation 90 : हेलमेट पहने बिना मोटरसाईकल चलाना बहुत खतरनाक होता है eos eos eos eos eos eos eos eos eos
+
+Input sentence 91 : the food is getting cold
+Actual translation 91 : <sos> sos खाना ठंडा हो रहा है eos <eos>
+Predicted translation 91 : खाना ठंडा हो रहा है eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 92 : i had a letter from her yesterday
+Actual translation 92 : <sos> sos मेरे पास कल उसकी एक चिट्ठी आई eos <eos>
+Predicted translation 92 : मेरे पास कल उसकी एक चिट्ठी आई eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 93 : she believes her son is still alive
+Actual translation 93 : <sos> sos उसको लगता है कि उसका बेटा अभी भी ज़िंदा है eos <eos>
+Predicted translation 93 : उसको लगता है कि उसका बेटा अभी भी ज़िंदा है eos eos eos eos eos eos eos eos
+
+Input sentence 94 : the problem is being discussed now
+Actual translation 94 : <sos> sos समस्या पर बहस जारी है eos <eos>
+Predicted translation 94 : समस्या पर बहस जारी है eos eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 95 : i am confident he will keep his promise
+Actual translation 95 : <sos> sos मुझे भरोसा है कि वह अपना वादा निभाएगा eos <eos>
+Predicted translation 95 : मुझे भरोसा है कि वह अपना वादा निभाएगा eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 96 : i dont think i can wait that long
+Actual translation 96 : <sos> sos मैं उतनी देर रुक नहीं सकता eos <eos>
+Predicted translation 96 : मैं उतनी देर रुक नहीं सकता eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 97 : shall i clean the room
+Actual translation 97 : <sos> sos मैं कमरे की सफ़ाई करूँ क्या eos <eos>
+Predicted translation 97 : मैं कमरे की सफ़ाई करूँ क्या eos eos eos eos eos eos eos eos eos eos eos eos
+
+Input sentence 98 : im wondering whether to take on that job
+Actual translation 98 : <sos> sos मैं सोच रहा हूँ कि नौकरी लूँ या नहीं लूँ eos <eos>
+Predicted translation 98 : मैं सोच रहा हूँ कि नौकरी लूँ या नहीं लूँ eos eos eos eos eos eos eos eos
+
+Input sentence 99 : she poured coffee into the cups on the table
+Actual translation 99 : <sos> sos उसने मेज़ पर रखे हुए कपों में कॉफ़ी डाली eos <eos>
+Predicted translation 99 : उसने मेज़ पर रखे हुए कपों में कॉफ़ी डाली eos eos eos eos eos eos eos eos eos
+
+Input sentence 100 : what is the population of india
+Actual translation 100 : <sos> sos भारत की जनसंख्या क्या है eos <eos>
+Predicted translation 100 : भारत की आबादी क्या है eos eos eos eos eos eos eos eos eos eos eos eos eos
